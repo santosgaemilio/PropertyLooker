@@ -16,4 +16,8 @@
     <ProjectReference Include="..\CoolProp\CoolProp.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+
 </Project>
